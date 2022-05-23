@@ -12,6 +12,18 @@
   *Instancing objects\
   *Objects as method parameters and return type\
   *Overloading\
-  *Arrays
+  *Arrays\
+  *Data Types\
+  *Strings\
+  *inheritance\
+  *Override and overload\
+  *Access limitations\
+  *Polymorphism\
+  *Abstraction\
+  *Interfaces\
+  *Collections Framework\
+  *Looping through collections and loops\
+  *Exceptions
+  
 
 [Link to Course Website](https://testautomationu.applitools.com/java-programming-course)
